@@ -1,4 +1,4 @@
-- Traffic Light Controller -
+## Traffic Light Controller
 This repository showcases the design and implementation of a Traffic Light Controller using Verilog. The project simulates a real-world traffic management system, ensuring smooth vehicle movement at intersections through an efficient state-based control mechanism.
 
 - Key Features:
